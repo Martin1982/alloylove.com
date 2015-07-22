@@ -1,6 +1,13 @@
 [
 	{
 		"type": "widget",
+		"description": "A view that can be triggered to move in and out from the bottom",
+		"github": "Martin1982/nl.martindekeijzer.popinview",
+		"url": "https://github.com/Martin1982/nl.martindekeijzer.popinview",
+		"json": "https://raw.githubusercontent.com/Martin1982/nl.martindekeijzer.popinview/master/widget.json"
+	},
+	{
+		"type": "widget",
 		"description": "Cross-platform TabGroup widget for iOS and Android",
 		"github": "jasonkneen/com.jasonkneen.tabgroup",
 		"url": "https://github.com/jasonkneen/com.jasonkneen.tabgroup",
